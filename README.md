@@ -11,5 +11,8 @@
   <img aling="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img aling="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img aling="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img aling="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img aling="center" alt="java" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "/>
+  <img aling="center" alt="java" src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=coffe&logoColor=F7DF1E "/>
 </div> <br>
 Apaixonado por tecnologia, educação e por conseguir mudar minha vida e dos meus familiares através da programação!  
